@@ -1,2 +1,1 @@
-# Ella's personal website
-This is my personal website!
+This is my personal website! It contains information about me, my resume, and my contact information!
